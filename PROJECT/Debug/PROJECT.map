@@ -1,0 +1,974 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              main.o (__subsf3)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              main.o (__divsf3)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              main.o (__fixunssfsi)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              main.o (__gtsf2)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              main.o (__mulsf3)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o) (__fp_cmp)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              check_button.o (__do_clear_bss)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+                              main.o (calloc)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o) (malloc)
+d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                              d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o) (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+key_flag            0x1               check_button.o
+mode_rfid           0x1               check_button.o
+j                   0x1               check_button.o
+key_flag_check      0x1               check_button.o
+k                   0x1               check_button.o
+__brkval            0x2               d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+error_position      0x4               main.o
+__flp               0x2               d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+milisecond          0x1               main.o
+value               0x1               check_button.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 check_button.o
+ .data          0x00000000        0x0 check_button.o
+ .bss           0x00000000        0x0 check_button.o
+ .text          0x00000000        0x0 external_interrupt.o
+ .data          0x00000000        0x0 external_interrupt.o
+ .bss           0x00000000        0x0 external_interrupt.o
+ .text          0x00000000        0x0 I2C.o
+ .data          0x00000000        0x0 I2C.o
+ .bss           0x00000000        0x0 I2C.o
+ .text.i2c_initialization_slaver
+                0x00000000        0xc I2C.o
+ .text.i2c_det  0x00000000       0x16 I2C.o
+ .text.i2c_write_slaver
+                0x00000000       0x14 I2C.o
+ .text.i2c_read_master
+                0x00000000       0x14 I2C.o
+ .text.i2c_read_slaver
+                0x00000000       0x14 I2C.o
+ .text.i2c_nak  0x00000000       0x10 I2C.o
+ .text          0x00000000        0x0 I2C_LCD.o
+ .data          0x00000000        0x0 I2C_LCD.o
+ .bss           0x00000000        0x0 I2C_LCD.o
+ .text.i2c_lcd_string
+                0x00000000       0x2c I2C_LCD.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 mfrc522.o
+ .data          0x00000000        0x0 mfrc522.o
+ .bss           0x00000000        0x0 mfrc522.o
+ .text.mfrc522_reset
+                0x00000000        0xa mfrc522.o
+ .text.mfrc522_init
+                0x00000000       0x4c mfrc522.o
+ .text          0x00000000        0x0 spi.o
+ .data          0x00000000        0x0 spi.o
+ .bss           0x00000000        0x0 spi.o
+ .text.spi_init_master
+                0x00000000        0xe spi.o
+ .text.spi_turnoff
+                0x00000000        0xc spi.o
+ .rodata.SCK    0x00000000        0x1 spi.o
+ .rodata.MISO   0x00000000        0x1 spi.o
+ .rodata.MOSI   0x00000000        0x1 spi.o
+ .rodata.SS     0x00000000        0x1 spi.o
+ .text          0x00000000        0x0 timer0.o
+ .data          0x00000000        0x0 timer0.o
+ .bss           0x00000000        0x0 timer0.o
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00000000        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD check_button.o
+LOAD external_interrupt.o
+LOAD I2C.o
+LOAD I2C_LCD.o
+LOAD main.o
+LOAD mfrc522.o
+LOAD spi.o
+LOAD timer0.o
+START GROUP
+LOAD d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1b80
+ *(.vectors)
+ .vectors       0x00000000       0x68 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.__c.2468
+                0x00000068        0x8 main.o
+ .progmem.data.__c.2413
+                0x00000070        0xd main.o
+ .progmem.data.__c.2403
+                0x0000007d        0xd main.o
+ .progmem.data.__c.2391
+                0x0000008a        0x8 main.o
+ .progmem.data.__c.2389
+                0x00000092        0xb main.o
+ .progmem.data.__c.2382
+                0x0000009d        0x6 main.o
+ .progmem.data.__c.2376
+                0x000000a3        0xd main.o
+ .progmem.data.__c.2369
+                0x000000b0        0xf main.o
+ .progmem.data.__c.2359
+                0x000000bf        0x9 main.o
+ .progmem.data.__c.2351
+                0x000000c8        0x8 main.o
+ .progmem.data.__c.2344
+                0x000000d0        0xf main.o
+ .progmem.data.__c.2339
+                0x000000df        0xf main.o
+ .progmem.data.__c.2336
+                0x000000ee        0xf main.o
+ .progmem.data.__c.2327
+                0x000000fd        0xf main.o
+ .progmem.data.__c.2317
+                0x0000010c        0xa main.o
+ .progmem.data.__c.2307
+                0x00000116        0xb main.o
+ .progmem.data.__c.2286
+                0x00000121        0x6 main.o
+                0x00000128                . = ALIGN (0x2)
+ *fill*         0x00000127        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000128                __ctors_start = .
+ *(.ctors)
+                0x00000128                __ctors_end = .
+                0x00000128                __dtors_start = .
+ *(.dtors)
+                0x00000128                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000128        0x0 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000128                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000128        0xc D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000134       0x16 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000134                __do_copy_data
+ .init4         0x0000014a       0x10 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x0000014a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000015a        0x8 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000162        0x4 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000162                __vector_22
+                0x00000162                __vector_24
+                0x00000162                __vector_12
+                0x00000162                __bad_interrupt
+                0x00000162                __vector_6
+                0x00000162                __vector_3
+                0x00000162                __vector_23
+                0x00000162                __vector_25
+                0x00000162                __vector_13
+                0x00000162                __vector_17
+                0x00000162                __vector_19
+                0x00000162                __vector_7
+                0x00000162                __vector_4
+                0x00000162                __vector_9
+                0x00000162                __vector_2
+                0x00000162                __vector_21
+                0x00000162                __vector_15
+                0x00000162                __vector_8
+                0x00000162                __vector_10
+                0x00000162                __vector_16
+                0x00000162                __vector_18
+                0x00000162                __vector_20
+                0x00000166                . = ALIGN (0x2)
+ *(.text.*)
+ .text.waitkey  0x00000166       0x3a check_button.o
+                0x00000166                waitkey
+ .text.check_key
+                0x000001a0       0x2a check_button.o
+                0x000001a0                check_key
+ .text.find_button
+                0x000001ca       0x94 check_button.o
+                0x000001ca                find_button
+ .text.external_interrupt
+                0x0000025e       0x66 external_interrupt.o
+                0x0000025e                external_interrupt
+ .text.external_interrupt_stop
+                0x000002c4       0x18 external_interrupt.o
+                0x000002c4                external_interrupt_stop
+ .text.pinchange_interrupt
+                0x000002dc       0x76 external_interrupt.o
+                0x000002dc                pinchange_interrupt
+ .text.pinchange_interrupt_stop
+                0x00000352       0x60 external_interrupt.o
+                0x00000352                pinchange_interrupt_stop
+ .text.i2c_initialization_master
+                0x000003b2       0x14 I2C.o
+                0x000003b2                i2c_initialization_master
+ .text.i2c_start
+                0x000003c6       0x10 I2C.o
+                0x000003c6                i2c_start
+ .text.i2c_stop
+                0x000003d6        0x8 I2C.o
+                0x000003d6                i2c_stop
+ .text.i2c_write_master
+                0x000003de       0x14 I2C.o
+                0x000003de                i2c_write_master
+ .text.i2c_lcd_command
+                0x000003f2       0x7a I2C_LCD.o
+                0x000003f2                i2c_lcd_command
+ .text.i2c_lcd_init_power
+                0x0000046c       0x3e I2C_LCD.o
+                0x0000046c                i2c_lcd_init_power
+ .text.i2c_lcd_clear
+                0x000004aa       0x14 I2C_LCD.o
+                0x000004aa                i2c_lcd_clear
+ .text.i2c_lcd_init
+                0x000004be       0x52 I2C_LCD.o
+                0x000004be                i2c_lcd_init
+ .text.i2c_lcd_turnoff
+                0x00000510       0x18 I2C_LCD.o
+                0x00000510                i2c_lcd_turnoff
+ .text.i2c_lcd_begin
+                0x00000528        0xe I2C_LCD.o
+                0x00000528                i2c_lcd_begin
+ .text.i2c_lcd_data
+                0x00000536       0x86 I2C_LCD.o
+                0x00000536                i2c_lcd_data
+ .text.byte_2_str1
+                0x000005bc       0x10 main.o
+                0x000005bc                byte_2_str1
+ .text.byte_2_str2
+                0x000005cc        0xe main.o
+                0x000005cc                byte_2_str2
+ .text.write_eep
+                0x000005da       0x18 main.o
+                0x000005da                write_eep
+ .text.read_eep
+                0x000005f2       0x12 main.o
+                0x000005f2                read_eep
+ .text.showString
+                0x00000604       0x1e main.o
+                0x00000604                showString
+ .text.compare_string
+                0x00000622       0x2c main.o
+                0x00000622                compare_string
+ .text.change_pass
+                0x0000064e      0x16c main.o
+                0x0000064e                change_pass
+ .text.buzzer   0x000007ba       0x20 main.o
+                0x000007ba                buzzer
+ .text.warning  0x000007da       0x18 main.o
+                0x000007da                warning
+ .text.insert_card
+                0x000007f2      0x1b8 main.o
+                0x000007f2                insert_card
+ .text.lcd_power_on
+                0x000009aa       0x1e main.o
+                0x000009aa                lcd_power_on
+ .text.lcd_power_off
+                0x000009c8        0xa main.o
+                0x000009c8                lcd_power_off
+ .text.main     0x000009d2       0x18 main.o
+                0x000009d2                main
+ .text.fast_pwm
+                0x000009ea       0x16 main.o
+                0x000009ea                fast_pwm
+ .text.close_door
+                0x00000a00       0xb8 main.o
+                0x00000a00                close_door
+ .text.open_door
+                0x00000ab8       0xe0 main.o
+                0x00000ab8                open_door
+ .text.right_password
+                0x00000b98        0x6 main.o
+                0x00000b98                right_password
+ .text.check_rfid
+                0x00000b9e      0x120 main.o
+                0x00000b9e                check_rfid
+ .text.check_pass
+                0x00000cbe      0x218 main.o
+                0x00000cbe                check_pass
+ .text.__vector_1
+                0x00000ed6       0x70 main.o
+                0x00000ed6                __vector_1
+ .text.__vector_14
+                0x00000f46      0x12a main.o
+                0x00000f46                __vector_14
+ .text.run_seconds
+                0x00001070       0x30 main.o
+                0x00001070                run_seconds
+ .text.__vector_5
+                0x000010a0       0x8c main.o
+                0x000010a0                __vector_5
+ .text.__vector_11
+                0x0000112c       0x52 main.o
+                0x0000112c                __vector_11
+ .text.mfrc522_write
+                0x0000117e       0x2a mfrc522.o
+                0x0000117e                mfrc522_write
+ .text.mfrc522_read
+                0x000011a8       0x2a mfrc522.o
+                0x000011a8                mfrc522_read
+ .text.mfrc522_to_card
+                0x000011d2      0x1fe mfrc522.o
+                0x000011d2                mfrc522_to_card
+ .text.mfrc522_request
+                0x000013d0       0x6a mfrc522.o
+                0x000013d0                mfrc522_request
+ .text.mfrc522_get_card_serial
+                0x0000143a       0x78 mfrc522.o
+                0x0000143a                mfrc522_get_card_serial
+ .text.enable_spi
+                0x000014b2        0x8 spi.o
+                0x000014b2                enable_spi
+ .text.disable_spi
+                0x000014ba        0x8 spi.o
+                0x000014ba                disable_spi
+ .text.spi_transmit
+                0x000014c2        0xc spi.o
+                0x000014c2                spi_transmit
+ .text.run_millis
+                0x000014ce       0x30 timer0.o
+                0x000014ce                run_millis
+ .text.stop_millis
+                0x000014fe        0xc timer0.o
+                0x000014fe                stop_millis
+ .text.avr-libc.fplib
+                0x0000150a        0xe d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x0000150a                __subsf3
+                0x0000150c                __addsf3
+ .text.avr-libc.fplib
+                0x00001518       0xcc d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x0000153a                __addsf3x
+ .text.avr-libc.fplib
+                0x000015e4        0x8 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x000015e4                __divsf3
+ .text.avr-libc.fplib
+                0x000015ec       0xdc d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x0000160c                __divsf3x
+                0x00001612                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000016c8       0x5e d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000016c8                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00001726        0xc d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001726                __fp_inf
+ .text.avr-libc.fplib
+                0x00001732        0x6 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001732                __fp_nan
+ .text.avr-libc.fplib
+                0x00001738        0xe d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001738                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001746        0xe d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001746                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001754       0x22 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00001754                __fp_round
+ .text.avr-libc.fplib
+                0x00001776       0x44 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00001776                __fp_split3
+                0x00001786                __fp_splitA
+ .text.avr-libc.fplib
+                0x000017ba        0xe d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000017ba                __fp_zero
+                0x000017bc                __fp_szero
+ .text.avr-libc.fplib
+                0x000017c8        0xa d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x000017c8                __gesf2
+                0x000017c8                __gtsf2
+ .text.avr-libc.fplib
+                0x000017d2        0x8 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000017d2                __mulsf3
+ .text.avr-libc.fplib
+                0x000017da       0xd2 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000017f8                __mulsf3x
+                0x000017fe                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x000018ac       0x48 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x000018ac                __fp_cmp
+ .text.avr-libc
+                0x000018f4       0x38 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+                0x000018f4                calloc
+ .text.avr-libc
+                0x0000192c      0x242 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x0000192c                malloc
+                0x00001a5c                free
+ .text.avr-libc
+                0x00001b6e        0xe d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00001b6e                memset
+                0x00001b7c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001b7c        0x0 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001b7c                _exit
+                0x00001b7c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001b7c        0x4 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001b80                _etext = .
+
+.data           0x00800100       0x14 load address 0x00001b80
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x6 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00800100                __malloc_heap_end
+                0x00800102                __malloc_heap_start
+                0x00800104                __malloc_margin
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800106        0xe main.o
+ *(.gnu.linkonce.r*)
+                0x00800114                . = ALIGN (0x2)
+                0x00800114                _edata = .
+                0x00800114                PROVIDE (__data_end, .)
+
+.bss            0x00800114       0x1a
+                0x00800114                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.time_wrong.2314
+                0x00800114        0x1 main.o
+ .bss.count     0x00800115        0x4 main.o
+                0x00800115                count
+ .bss.error_before
+                0x00800119        0x4 main.o
+                0x00800119                error_before
+ .bss.number_id
+                0x0080011d        0x1 main.o
+                0x0080011d                number_id
+ .bss.seconds   0x0080011e        0x1 main.o
+                0x0080011e                seconds
+ *(COMMON)
+ COMMON         0x0080011f        0x6 check_button.o
+                0x0080011f                key_flag
+                0x00800120                mode_rfid
+                0x00800121                j
+                0x00800122                key_flag_check
+                0x00800123                k
+                0x00800124                value
+ COMMON         0x00800125        0x5 main.o
+                0x00800125                error_position
+                0x00800129                milisecond
+ COMMON         0x0080012a        0x4 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x0080012a                __brkval
+                0x0080012c                __flp
+                0x0080012e                PROVIDE (__bss_end, .)
+                0x00001b80                __data_load_start = LOADADDR (.data)
+                0x00001b94                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080012e        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080012e                _end = .
+                0x0080012e                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 check_button.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 external_interrupt.o
+ .comment       0x00000030       0x31 I2C.o
+ .comment       0x00000030       0x31 I2C_LCD.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 mfrc522.o
+ .comment       0x00000030       0x31 spi.o
+ .comment       0x00000030       0x31 timer0.o
+ .comment       0x00000030       0x31 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .comment       0x00000030       0x31 d:/softwear/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2b8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 check_button.o
+ .debug_aranges
+                0x00000030       0x38 external_interrupt.o
+ .debug_aranges
+                0x00000068       0x68 I2C.o
+ .debug_aranges
+                0x000000d0       0x58 I2C_LCD.o
+ .debug_aranges
+                0x00000128       0xd8 main.o
+ .debug_aranges
+                0x00000200       0x50 mfrc522.o
+ .debug_aranges
+                0x00000250       0x40 spi.o
+ .debug_aranges
+                0x00000290       0x28 timer0.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x3007
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x286 check_button.o
+ .debug_info    0x0000087a      0x13f external_interrupt.o
+ .debug_info    0x000009b9      0x19e I2C.o
+ .debug_info    0x00000b57      0x769 I2C_LCD.o
+ .debug_info    0x000012c0     0x1565 main.o
+ .debug_info    0x00002825      0x5f7 mfrc522.o
+ .debug_info    0x00002e1c      0x142 spi.o
+ .debug_info    0x00002f5e       0xa9 timer0.o
+
+.debug_abbrev   0x00000000      0xf7b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x15f check_button.o
+ .debug_abbrev  0x00000701       0x98 external_interrupt.o
+ .debug_abbrev  0x00000799       0xb9 I2C.o
+ .debug_abbrev  0x00000852      0x191 I2C_LCD.o
+ .debug_abbrev  0x000009e3      0x379 main.o
+ .debug_abbrev  0x00000d5c      0x11c mfrc522.o
+ .debug_abbrev  0x00000e78       0xa3 spi.o
+ .debug_abbrev  0x00000f1b       0x60 timer0.o
+
+.debug_line     0x00000000     0x19e5
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x231 check_button.o
+ .debug_line    0x00000365      0x137 external_interrupt.o
+ .debug_line    0x0000049c      0x1ed I2C.o
+ .debug_line    0x00000689      0x2f5 I2C_LCD.o
+ .debug_line    0x0000097e      0xb33 main.o
+ .debug_line    0x000014b1      0x357 mfrc522.o
+ .debug_line    0x00001808      0x102 spi.o
+ .debug_line    0x0000190a       0xdb timer0.o
+
+.debug_frame    0x00000000      0x750
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x44 check_button.o
+ .debug_frame   0x00000044       0x54 external_interrupt.o
+ .debug_frame   0x00000098       0xb4 I2C.o
+ .debug_frame   0x0000014c       0xd4 I2C_LCD.o
+ .debug_frame   0x00000220      0x368 main.o
+ .debug_frame   0x00000588      0x130 mfrc522.o
+ .debug_frame   0x000006b8       0x64 spi.o
+ .debug_frame   0x0000071c       0x34 timer0.o
+
+.debug_str      0x00000000      0x9a0
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 D:/softwear/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x1ff check_button.o
+                                0x233 (size before relaxing)
+ .debug_str     0x00000407       0x7c external_interrupt.o
+                                0x1f5 (size before relaxing)
+ .debug_str     0x00000483       0xac I2C.o
+                                0x220 (size before relaxing)
+ .debug_str     0x0000052f       0xa9 I2C_LCD.o
+                                0x289 (size before relaxing)
+ .debug_str     0x000005d8      0x28a main.o
+                                0x573 (size before relaxing)
+ .debug_str     0x00000862       0xff mfrc522.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00000961       0x31 spi.o
+                                0x1ce (size before relaxing)
+ .debug_str     0x00000992        0xe timer0.o
+                                0x19f (size before relaxing)
+
+.debug_loc      0x00000000     0x2048
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x123 check_button.o
+ .debug_loc     0x00000123       0xb6 external_interrupt.o
+ .debug_loc     0x000001d9       0xaa I2C.o
+ .debug_loc     0x00000283      0x7c2 I2C_LCD.o
+ .debug_loc     0x00000a45      0xece main.o
+ .debug_loc     0x00001913      0x716 mfrc522.o
+ .debug_loc     0x00002029       0x1f spi.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x2f8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x50 check_button.o
+ .debug_ranges  0x00000050       0x28 external_interrupt.o
+ .debug_ranges  0x00000078       0x58 I2C.o
+ .debug_ranges  0x000000d0       0x48 I2C_LCD.o
+ .debug_ranges  0x00000118      0x158 main.o
+ .debug_ranges  0x00000270       0x40 mfrc522.o
+ .debug_ranges  0x000002b0       0x30 spi.o
+ .debug_ranges  0x000002e0       0x18 timer0.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(PROJECT.elf elf32-avr)
+LOAD linker stubs
